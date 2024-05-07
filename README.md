@@ -1,3 +1,6 @@
+![SV06 Switchwire Conversion Final Basic Enclosed](https://github.com/Oldmopars/SW06-Sovol-Switchwire-Conversion/assets/132718373/1e0e4e3d-e768-47c5-aa13-fa85ce3928ec)
+![SV06 Switchwire Conversion Basic Open](https://github.com/Oldmopars/SW06-Sovol-Switchwire-Conversion/assets/132718373/5f8609b3-4eda-4504-b70e-e887b8a05e2d)
+![SV06 Switchwire Conversion Full Monty](https://github.com/Oldmopars/SW06-Sovol-Switchwire-Conversion/assets/132718373/f0f905ec-734f-41df-b30b-f3599d7dc5b3)
 # SW06-Sovol-Switchwire-Conversion
 Here it is. Until I can come up with a better name, I am calling it the SW06 (Switchwire/SV06). 
 I had a few goals with this build. 

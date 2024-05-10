@@ -15,4 +15,7 @@ The Full Monty. Here you add the MGN12 rails in the Z axis to full SW configurat
   If anyone would like to build a BETA version, let me know and I will share the files with you. I would love to have some others build it first and help me flush out any issues I may have overlooked. 
   I look forward to sharing this with you all and hope to see many of these printers converted and doing great things. 
 
-Please keep in mind that this is a BETA. I have yet to convert a full printer and so much of this is untested. Please feel free to use these files and let me know if anything needs to be fixed or changed. I would love to get feedback and see your builds. 
+Please keep in mind that this is a ALPHA. I have yet to convert a full printer and so much of this is untested. Please feel free to use these files and let me know if anything needs to be fixed or changed. I would love to get feedback and see your builds. 
+
+May 9 2024
+I have updated the file. I have added the missing hardware and made some other changes. Please let me know if you find any issue with it. 

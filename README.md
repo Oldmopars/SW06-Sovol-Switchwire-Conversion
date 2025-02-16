@@ -19,3 +19,6 @@ Please keep in mind that this is a ALPHA. I have yet to convert a full printer a
 
 May 9 2024
 I have updated the file. I have added the missing hardware and made some other changes. Please let me know if you find any issue with it. 
+
+Feb 15 2025
+I made some major upgrades to the X and Z motor mounts. It is now using the original Voron Switchwire motor mounts. This makes maintenace much easier. Prior version was difficult to change belt tension, or any other work on the motors. Now it is much easier to work on. 
